@@ -1,3 +1,4 @@
+//Make by the master
 <?php
 session_start();
 session_destroy();
